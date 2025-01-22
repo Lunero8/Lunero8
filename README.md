@@ -2,7 +2,7 @@
 - 👀 I’m interested in Solving problem with code
 - 🌱 I’m currently learning Algorithms
 - 💞️ I’m looking to collaborate on something which help prople's life
-- 📫 <p>Reach me by
+- 📫 Reach me by <p>
         <a href="https://wa.me/8801983779897" target="_blank">WhatsApp</a>, 
         <a href="https://www.linkedin.com/in/aminure-rahman-sayem/" target="_blank">LinkedIn</a>
     </p>
